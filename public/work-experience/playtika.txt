@@ -1,0 +1,13 @@
+Collaborating with 13 cross-functional teams across 5 R&D centers in multiple locations, including Israel
+Responsible for managing the QA processes and ensuring product quality across different projects
+Oversaw and enhanced existing Quality Gates to ensure product excellence
+Led the management and continuous improvement of automation test case scope, quality, and outcomes
+Streamlined and optimized QA processes across teams
+Facilitated communication and coordination between architects, TPOs, developers, and DevOps teams
+Applied in-depth knowledge of testing methodologies, development techniques, and the software development lifecycle
+Validated and ensured the quality of multiple concurrent projects
+Estimated and allocated resources for the full cycle of product validation
+Led knowledge transfer initiatives, such as QA training courses, QA Guild, and company-wide QA standards documentation
+Spearheaded process improvements, knowledge sharing, and test quality enhancement initiatives
+Provided support to teams and projects across multiple locations
+Conducted root cause analysis and managed incident resolution processes across studios

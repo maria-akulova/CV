@@ -1,0 +1,15 @@
+.title_body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 15px;
+
+  >span {
+    margin: 0;
+    border-radius: 5px;
+    color: white;
+    background-color: #2b95a5b9;
+    line-height: 2rem;
+    padding: 5px 10px;
+    white-space: nowrap;
+  }
+}

@@ -1,0 +1,5 @@
+Improved overall efficiency of the QA department through strategic planning and resource allocation
+Managed cross-functional teams to ensure seamless coordination between QA, development, DevOps and support departments
+Conducted root cause analysis on recurring defects, implementing corrective measures to prevent future occurrences
+Optimized test case coverage by identifying gaps in existing test plans and devising new strategies for comprehensive testing
+Collaborated with program management to establish key performance indicators for the game studio, driving continuous improvement efforts throughout the organization

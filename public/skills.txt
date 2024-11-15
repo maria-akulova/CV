@@ -1,0 +1,33 @@
+Agile / Scrum / Kanban
+Team Development
+Strategic Planning
+Staff Development / Management / Training
+Cross-Functional Teamwork
+Performance Evaluations
+Problem-solving abilities
+Quality Metrics Monitoring
+Project Management Fundamentals
+JavaScript / TypeScript
+HTML
+CSS / SCSS
+React
+Next.js
+Node.js
+Redux
+Jest / Vitests
+Vite / WebPack
+SQL (Oracle, MS SQL)
+SonarQube
+Linters
+Husky
+Git
+JBehave
+TDD / BDD
+Cucumber
+Jenkins / Hudson / TeamCity
+TestCafe
+Selenium
+Java
+Maven
+Jira
+Confluence

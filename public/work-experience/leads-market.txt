@@ -1,0 +1,6 @@
+Developed Test Automation Framework (TAF) from scratch using JavaScript, TestCafe, BDD (Cucumber), PageObject, Allure, Azure DevOps (CI/CD)
+Configured test environments and implemented data generation with Faker
+Led QA processes (manual + automation) following SDLC
+Managed Incident, Problem, and Change Management processes (ITIL)
+Oversaw team management (Skill Matrix, Performance Reviews, Onboarding)
+Spearheaded Knowledge Management and QA strategy across the company

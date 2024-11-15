@@ -1,0 +1,7 @@
+Successfully managed multiple projects  simultaneously, ensuring alignment between the team and client through regular syncs, reporting, and incorporating feedback for continuous improvement
+Took a part in Pre-sale of QA Department
+Established comprehensive QA processes from the ground up, encompassing manual testing, test automation, performance and security testing
+Conducted root cause analysis on recurring defects, implementing corrective measures to prevent future occurrences
+Utilized automation tools to increase efficiency in repetitive tasks, allowing more time for exploratory testing and issue resolution efforts
+Reduced software defects by closely monitoring QA processes and providing timely feedback to the development team
+Optimized test case coverage by identifying gaps in existing test plans and devising new strategies for comprehensive testing (automated traceability matrix)
