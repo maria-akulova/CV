@@ -1,0 +1,20 @@
+.year_place {
+  display: flex;
+  flex-direction: row;
+  color: #d39544;
+  justify-content: space-between;
+}
+
+.company {
+  font-size: larger;
+}
+
+.list_items>li::marker {
+  color: #d39544;
+}
+
+.role {
+  font-size: larger;
+  font-weight: 700;
+  margin-top: 20px;
+}

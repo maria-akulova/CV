@@ -1,5 +1,7 @@
 .main {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: column;
   width: inherit;
+  z-index: 2;
+  margin-top: -60px;
 }

@@ -1,0 +1,17 @@
+.section_title {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  color: #4d868f;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  align-items: center;
+  margin: 15px 0;
+
+  .title_image {
+    width: 40px;
+    height: fit-content;
+  }
+
+}

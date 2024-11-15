@@ -1,0 +1,3 @@
+successfully completed all stages of RS School, mastering JavaScript/TypeScript, SCSS, React, Next.js, Vite/Webpack, Redux, and more
+completed two final projects at different stages as part of a team
+organized team workflows using Jira and Confluence, following Agile/Scrum practices, including Planning Poker, sprint planning, standups and demos
