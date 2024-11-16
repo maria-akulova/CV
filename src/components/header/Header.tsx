@@ -1,5 +1,4 @@
 import style from './Header.module.scss';
-import Image from 'next/image';
 
 import Email from '../../../public/email-svgrepo-com.svg';
 import Phone from '../../../public/phone-rounded-svgrepo-com.svg';
@@ -7,6 +6,7 @@ import Geo from '../../../public/pinpoint-svgrepo-com.svg';
 import Linkedin from '../../../public/linkedin-rounded-svgrepo-com.svg';
 import Github from '../../../public/github-142-svgrepo-com.svg';
 import Telegram from '../../../public/telegram-svgrepo-com.svg';
+import PersonalPhoto from '../../../public/Maria_Akulova.png';
 
 export const Header: React.FC = () => {
   return (
@@ -65,7 +65,8 @@ export const Header: React.FC = () => {
       </div>
       <div className={style.back_photo}></div>
       <div className={style.photo}>
-        <Image src="/Maria_Akulova.png" alt="personal_photo" width={200} height={300} />
+        <PersonalPhoto alt="personal_photo" width="200" height="300" />
+        {/* <Image src="/Maria_Akulova.png" alt="personal_photo" width={200} height={300} /> */}
       </div>
       <div className={style.bottom_white}></div>
     </>

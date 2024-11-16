@@ -20,7 +20,7 @@ export default function Home() {
         <Section title="Education" fileImage="/work-case-svgrepo-com.svg">
           <Education></Education>
         </Section>
-        <Section title="Certification" fileImage="/work-case-svgrepo-com.svg">
+        <Section title="Certifications" fileImage="/work-case-svgrepo-com.svg">
           <Certification></Certification>
         </Section>
       </main>
