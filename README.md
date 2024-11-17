@@ -20,8 +20,8 @@ Creative CV's for different positions:
 - WebPack
 - SCSS
 
-## Markup
- 1440px - 320px
+## Layout
+ 1440px - 350px
 
 ## Scripts
 
@@ -43,4 +43,4 @@ Creative CV's for different positions:
     "test" - run test report with coverage
 ```
 ## Deploy
-Netlify, help [video1](https://www.youtube.com/watch?v=WoL3xbkAfOU&ab_channel=AyyazTech)
+Netlify, help [video](https://www.youtube.com/watch?v=WoL3xbkAfOU&ab_channel=AyyazTech)

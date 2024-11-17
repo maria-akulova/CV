@@ -3,5 +3,7 @@
   flex-flow: column;
   width: inherit;
   z-index: 2;
-  margin-top: -60px;
+  margin-top: -140px;
+  position: absolute;
+  max-width: 1200px;
 }

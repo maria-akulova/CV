@@ -1,13 +1,26 @@
+.list_items {
+  padding: 0 10px;
+}
+
 .list_items>li {
   display: flex;
-  flex-direction: row;
-  gap: 20px;
-  width: 10%;
+  flex-flow: row nowrap;
+  gap: 10px;
+  max-width: 100px;
   justify-content: space-between;
+
+  @media (width<400px) {
+    max-width: 80px;
+  }
+
 }
 
 .list_items>li>span {
   text-align: left;
   text-wrap: nowrap;
   width: 5%;
+
+  @media (width<420px) {
+    font-size: 0.8rem;
+  }
 }

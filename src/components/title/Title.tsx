@@ -10,12 +10,12 @@ interface TitleProps {
 
 export const Title: React.FC<TitleProps> = ({ titleName, src, children }) => {
   return (
-    <Fragment>
+    <>
       <div className={style.section_title}>
         <Image src={src} alt={titleName} width={40} height={40} className={style.title_image} />
         <span>{titleName}</span>
       </div>
-      <div>{children}</div>
-    </Fragment>
+      {children}
+    </>
   );
 };

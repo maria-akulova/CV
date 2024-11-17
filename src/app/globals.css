@@ -1,3 +1,7 @@
+:root {
+  --font-roboto: 'Roboto', sans-serif;
+}
+
 body {
   margin: 0;
 }
@@ -5,11 +9,12 @@ body {
 .wrapper {
   margin: 0 auto;
   max-width: 1200px;
+  font-family: var(--font-roboto);
 }
 
 .section {
   display: flex;
   flex-direction: column;
-  margin-top: 40px;
+  margin-top: 15px;
   padding: 0 15px;
 }

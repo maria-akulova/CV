@@ -7,10 +7,11 @@
   font-weight: 600;
   text-transform: uppercase;
   align-items: center;
-  margin: 15px 0;
+  margin: 5px 0;
+  overflow-wrap: anywhere;
 
   .title_image {
-    width: 40px;
+    width: 20px;
     height: fit-content;
   }
 

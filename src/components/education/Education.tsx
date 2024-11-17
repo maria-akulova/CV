@@ -1,7 +1,7 @@
 import style from './Education.module.scss';
 export const Education: React.FC = () => {
   return (
-    <>
+    <div className={style.wrapper}>
       <div className={style.year}>Sep 2004</div>
       <div className={style.degree}>
         Bachelor of Science: Management Information Systems, General
@@ -16,6 +16,6 @@ export const Education: React.FC = () => {
           Fields of Study: Department of Ecology, Heat Engineering, Occupational Safety and Health
         </div>
       </div>
-    </>
+    </div>
   );
 };
