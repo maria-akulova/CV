@@ -43,4 +43,4 @@ Creative CV's for different positions:
     "test" - run test report with coverage
 ```
 ## Deploy
-Netlify
+Netlify, help [video1](https://www.youtube.com/watch?v=WoL3xbkAfOU&ab_channel=AyyazTech)
