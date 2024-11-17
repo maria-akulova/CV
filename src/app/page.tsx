@@ -14,13 +14,13 @@ export default function Home() {
       <Header></Header>
       <main className={style.main}>
         <SectionTileContent></SectionTileContent>
-        <Section title="work experience" fileImage="/work-case-svgrepo-com.svg">
+        <Section title="work experience" fileImage="./work-case-svgrepo-com.svg">
           <WorkContent></WorkContent>
         </Section>
-        <Section title="Education" fileImage="/work-case-svgrepo-com.svg">
+        <Section title="Education" fileImage="./work-case-svgrepo-com.svg">
           <Education></Education>
         </Section>
-        <Section title="Certification" fileImage="/work-case-svgrepo-com.svg">
+        <Section title="Certification" fileImage="./work-case-svgrepo-com.svg">
           <Certification></Certification>
         </Section>
       </main>

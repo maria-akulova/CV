@@ -65,7 +65,7 @@ export const Header: React.FC = () => {
       </div>
       <div className={style.back_photo}></div>
       <div className={style.photo}>
-        <Image src="/Maria_Akulova.png" alt="personal_photo" width={200} height={300} />
+        <Image src="./Maria_Akulova.png" alt="personal_photo" width={200} height={300} />
       </div>
       <div className={style.bottom_white}></div>
     </>

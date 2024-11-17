@@ -6,12 +6,12 @@ export const SectionTileContent: React.FC = () => {
       <SectionTile
         title="skills"
         fileSrc="./skills.txt"
-        fileImage="/skills-svgrepo-com.svg"
+        fileImage="./skills-svgrepo-com.svg"
       ></SectionTile>
       <SectionTile
         title="languages"
         fileSrc="./languages.txt"
-        fileImage="/skills-svgrepo-com.svg"
+        fileImage="./skills-svgrepo-com.svg"
       ></SectionTile>
     </>
   );
